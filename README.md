@@ -73,6 +73,7 @@ Technologies under consideration:
 
 Links  
 
+[https://youtu.be/0EBCMNoYvfc](How to build a modern banking app with Google Cloud)  
 [https://docs.oracle.com/en/solutions/oci-finance-lakehouse/index.html](Design a Modern Data Platform for Financial Workloads Oracle)  
 [https://www.softwaretestinghelp.com/python-testing-frameworks/](https://www.softwaretestinghelp.com/python-testing-frameworks/)  
 
