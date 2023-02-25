@@ -73,8 +73,10 @@ Technologies under consideration:
 
 Links  
 
+
 [https://youtu.be/0EBCMNoYvfc](How to build a modern banking app with Google Cloud)  
 [https://docs.oracle.com/en/solutions/oci-finance-lakehouse/index.html](Design a Modern Data Platform for Financial Workloads Oracle)  
 [https://www.softwaretestinghelp.com/python-testing-frameworks/](https://www.softwaretestinghelp.com/python-testing-frameworks/)  
 [https://www.finextra.com/blogposting/20446/the-role-of-big-data-in-banking--how-do-modern-banks-use-big-data](The Role of Big Data in Banking : How do Modern Banks Use Big Data?)  
+[https://rogulski.it/blog/kafka-consumer-knative-fastapi/](Consume Kafka events with Knative service and FastAPI on kubernetes)  
 
