@@ -79,4 +79,7 @@ Links
 [https://www.softwaretestinghelp.com/python-testing-frameworks/](https://www.softwaretestinghelp.com/python-testing-frameworks/)  
 [The Role of Big Data in Banking : How do Modern Banks Use Big Data?](https://www.finextra.com/blogposting/20446/the-role-of-big-data-in-banking--how-do-modern-banks-use-big-data)  
 [Consume Kafka events with Knative service and FastAPI on kubernetes](https://rogulski.it/blog/kafka-consumer-knative-fastapi/)  
-
+[Building a cloud Kubernetes IaC tool in a crowded space](https://2022.platformcon.com/talk/building-a-cloud-kubernetes-iac-tool-in-a-crowded-space)  
+[Building software DAGs with the power of BuildKit and Cue](https://2022.platformcon.com/talk/building-software-dags-with-the-power-of-buildkit-and-cue)  
+[Kratix - The Platform as a Product Framework](https://2022.platformcon.com/talk/kratix-the-platform-as-a-product-framework)  
+[Kratix and Crossplane: Building a Better Platform](https://www.syntasso.io/post/kratix-and-crossplane)  
