@@ -83,3 +83,6 @@ Links
 [Building software DAGs with the power of BuildKit and Cue](https://2022.platformcon.com/talk/building-software-dags-with-the-power-of-buildkit-and-cue)  
 [Kratix - The Platform as a Product Framework](https://2022.platformcon.com/talk/kratix-the-platform-as-a-product-framework)  
 [Kratix and Crossplane: Building a Better Platform](https://www.syntasso.io/post/kratix-and-crossplane)  
+[Data Flow Diagram for Online Banking System](https://www.geeksforgeeks.org/data-flow-diagram-for-online-banking-system/)  
+[Database Design for Banking Enterprise - Database Management System](https://youtu.be/GEnNhAL9PF4)  
+[Build a Bank Database Using SQL | SQL For Beginners | SQL Applications | Great Learning](https://www.youtube.com/live/dPx1228_EYM?feature=share)  
