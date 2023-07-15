@@ -1,4 +1,4 @@
-# FinCe
+# finplane
 
 
 
