@@ -46,6 +46,8 @@ Ideologies
 - k8s first approach
 - Operations as code
 - max doption of k8s operators  
+- reduce client side complex operations  
+- move operational complexities to CRDs  
 
 
 Financial Workload Requirements:  
