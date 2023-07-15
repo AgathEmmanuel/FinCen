@@ -2,7 +2,7 @@
 
 
 
-A Centralized platform with support for performing Financal services and Banking operations.  
+A generalized platform with support for performing Financal and Banking operations.  
 
 
 A project focused on learning and improving software engineering skills and to experiment with latest tech stacks along with putting strong emphasis on Enterprise level Architecture and scalability.  
@@ -41,6 +41,13 @@ Concepts
 - MLops  
 - MDP (Modern Data Platforms)  
 
+Ideologies
+- Infra as code not just json  
+- k8s first approach
+- Operations as code
+- max doption of k8s operators  
+
+
 Financial Workload Requirements:  
 
 
@@ -60,13 +67,12 @@ Technologies under consideration:
 - FastAPI  
 - Kubernetes  
 - Github  
-- C++
-- Golang  
 - Python  
 - AWS  
 - GoogleCloud  
 - CrossPlane  
-- Terraform  
+- Terraform
+- Jsonnet/Tanka
 
 
 
