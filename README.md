@@ -1,11 +1,15 @@
 # finplane
 
 
+A new way of designing platforms by prioritising kubernetes advanced functionalities from day one, instead of later putting effort on a migration  
+Design to scale from zero to many from day one  
+
 
 A generalized platform with support for performing Financal and Banking operations.  
 
 
-A project focused on learning and improving software engineering skills and to experiment with latest tech stacks along with putting strong emphasis on Enterprise level Architecture and scalability.  
+
+A project focused on learning and improving software engineering and system design skills and to experiment with latest tech stacks along with putting strong emphasis on Enterprise level Architecture and scalability.  
 
 Main points under consideration:
 - Microservie distributed systems architecture  
@@ -30,8 +34,10 @@ Take into consideration all the features available for a modern day bank website
 - Insurance  
 - Investing  
 - Bonds  
-- Stocks  
 - Fixed Deposits  
+- Credit cards  
+- Marketing  
+
 
 Concepts  
 
@@ -94,3 +100,6 @@ Links
 [Data Flow Diagram for Online Banking System](https://www.geeksforgeeks.org/data-flow-diagram-for-online-banking-system/)  
 [Database Design for Banking Enterprise - Database Management System](https://youtu.be/GEnNhAL9PF4)  
 [Build a Bank Database Using SQL | SQL For Beginners | SQL Applications | Great Learning](https://www.youtube.com/live/dPx1228_EYM?feature=share)  
+[Data Engineering Project: Stream Edition](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-stream-edition)  
+
+
